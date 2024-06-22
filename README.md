@@ -1,4 +1,3 @@
 # 3D_Printer_Build
 
-![InShot_20240623_003739415 (1)](https://github.com/sourabhshanbhogue/3D_Printer_Build/assets/84284202/fd82c474-e997-4f69-aea0-85152bcc23b8)
-
+![Screenshot 2024-06-23 004256](https://github.com/sourabhshanbhogue/3D_Printer_Build/assets/84284202/1c1bb1b5-b2b3-4a44-8ac8-a46648890da7)
